@@ -1,2 +1,3 @@
 # project-demo
-This is my first CSS Repository
+This is my first Git Repositor.
+Author:Kalpna
