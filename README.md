@@ -1,3 +1,3 @@
 # project-demo
-This is my first Git Repositor.
-Author:Kalpna
+This is my first Git Repositor.<br  />
+Author= Kalpna
